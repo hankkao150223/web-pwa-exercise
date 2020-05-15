@@ -1,7 +1,7 @@
-var ghpages = require('gh-pages');
+const ghpages = require('gh-pages');
 
-ghpages.publish('public', function(err) {
+ghpages.publish('public', function (err) {
+  if (!err) return;
   console.log('====== deploy happen error =====');
-  if(!err) return;
   console.log(err);
 });
