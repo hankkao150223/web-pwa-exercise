@@ -4,17 +4,22 @@
 
 [github, awesome-pwa](https://github.com/hemanth/awesome-pwa)
 
+[Github Test Link](https://hankkao150223.github.io/Test-PWA/), 自己開了一個 Static Website
+方便在 手機上做測試 (IOS 根 Android 都需要哦)
+
 ## TODO List
 
 - [x] use github pages
 - [ ] import Add to Home function
+  - [ ] IOS
+  - [ ] Android
 - [ ] import splash screen
+  - [ ] IOS
+  - [ ] Android
 - [ ] import service worker
 - [ ] when login, landing page ... ? (待討論)
 
----
-
-之後再導入 eslint
+## Eslint
 
 因為 以前在 eslint init 可以使用 airbnb 的 style
 
@@ -25,7 +30,7 @@
 
 這個機制 應該可以套用在 my project 並指定 不要指定 es6 即可
 
----
+## 待處理文章
 
 https://github.com/zh-rocco/weather-pwa
 
@@ -42,6 +47,6 @@ https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/659526/
 - ASP.net MVC 要使用 PWA
   - [IMPLEMENTING PWA BEHAVIOR TO ASP.NET MVC 5 APPS](http://www.spheregen.com/implementing-pwa-behavior-to-asp-net-mvc-5-apps/)
 
-https://ithelp.ithome.com.tw/articles/10228132
-https://ithelp.ithome.com.tw/articles/10228423
-https://ithelp.ithome.com.tw/articles/10228556
+- https://ithelp.ithome.com.tw/articles/10228132
+- https://ithelp.ithome.com.tw/articles/10228423
+- https://ithelp.ithome.com.tw/articles/10228556
