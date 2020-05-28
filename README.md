@@ -11,6 +11,7 @@
 
 - [x] use github pages
 - [ ] import Add to Home function
+  - [ ] 目前弄到這 但出不來 (應該是沒有註冊 sw.js)
   - [ ] IOS
   - [ ] Android
 - [ ] import splash screen

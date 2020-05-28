@@ -1,4 +1,8 @@
 module.exports = {
+  env: {
+    browser: true,
+    node: true,
+  },
   // use node plugin, 可以 lint node program
   extends: ['airbnb', 'prettier', 'plugin:node/recommended'],
   plugins: ['prettier'],
